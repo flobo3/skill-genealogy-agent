@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.jsonl
+*.ged
+*.md
+!SKILL.md
+!README.md
